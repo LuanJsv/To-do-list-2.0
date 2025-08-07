@@ -2,8 +2,7 @@
 
 Um projeto de **Lista de Tarefas Avançada**, desenvolvido com **HTML, CSS e JavaScript puro**, utilizando `localStorage` para persistência de dados e funcionalidades como edição, filtro e busca em tempo real.
 
-![Screenshot do Projeto](/img/Todo%20Avançado%20-%20Google%20Chrome%2006_08_2025%2023_40_04.png)
----
+## ![Screenshot do Projeto](/img/Todo%20Avançado%20-%20Google%20Chrome%2006_08_2025%2023_40_04.png)
 
 ## 🚀 Funcionalidades
 
@@ -40,7 +39,9 @@ Um projeto de **Lista de Tarefas Avançada**, desenvolvido com **HTML, CSS e Jav
 ├── index.html
 └── README.md
 🖼️ Imagem de fundo
-A imagem de fundo utilizada é uma paisagem natural em alta resolução, aplicada com background-size: cover; e centralizada para manter a estética em diferentes resoluções de tela.
+A imagem de fundo utilizada é uma paisagem natural em alta resolução,
+aplicada com background-size: cover; 
+e centralizada para manter a estética em diferentes resoluções de tela.
 
 💻 Como usar
 Clone este repositório:
@@ -73,3 +74,4 @@ Responsividade básica e estilização fluida
  Adicionar tema escuro
 
  Exportar tarefas em JSON
+```
